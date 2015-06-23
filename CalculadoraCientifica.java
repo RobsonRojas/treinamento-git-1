@@ -15,6 +15,15 @@ public class CalculadoraCientifica {
 	}
 	
 
+
+	/**
+	* soma dois inteiros
+	* 
+	* @param i	Coluna atual da peça a ser movida
+	* @param j    Linha atual da peça a ser movida
+	* @return            o resultado da soma
+	* @author            Robson Rojas
+	*/
 	public int soma(int i, int j)
 	{
 		return i+j;
