@@ -24,10 +24,10 @@ public class CalculadoraCientifica {
 	* @return            o resultado da soma
 	* @author            Robson Rojas
 	*/
+
 	public int soma(int i, int j)
 	{
 		return i+j;
 	}	
-
 
 }
